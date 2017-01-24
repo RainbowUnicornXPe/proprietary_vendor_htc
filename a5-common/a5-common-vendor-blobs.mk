@@ -230,6 +230,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5-common/proprietary/etc/firmware/widevine.b03:/system/etc/firmware/widevine.b03 \
         vendor/htc/a5-common/proprietary/etc/firmware/widevine.mdt:/system/etc/firmware/widevine.mdt \
         vendor/htc/a5-common/proprietary/lib/libdrmdecrypt.so:/system/lib/libdrmdecrypt.so \
+		vendor/htc/a5-common/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
         vendor/htc/a5-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:/system/vendor/lib/drm/libdrmwvmplugin.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libDivxDrm.so:/system/vendor/lib/libDivxDrm.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libSHIMDivxDrm.so:/system/vendor/lib/libSHIMDivxDrm.so \
